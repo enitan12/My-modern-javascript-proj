@@ -1,0 +1,11 @@
+{
+  "name": "my-modern-javascript-proj",
+  "version": "1.0.0",
+  "description": "tutorial cont'd",
+  "main": "clean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "christiana",
+  "license": "ISC"
+}
